@@ -1,0 +1,17 @@
+{
+    "name": "weather-app2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "private": true,
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.18.0",
+        "request": "^2.88.0",
+        "yargs": "^13.2.1"
+    },
+    "devDependencies": {
+        "env-cmd": "^8.0.2"
+    }
+}
